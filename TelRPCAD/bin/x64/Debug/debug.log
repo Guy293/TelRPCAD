@@ -1,0 +1,9 @@
+[0719/215224.038:ERROR:ssl_client_socket_impl.cc(1147)] handshake failed; returned -1, SSL error code 1, net_error -107
+[0719/215346.620:INFO:CONSOLE(135)] "Sending ajax request to http://134.119.181.113:30120/live_map/blips.json", source: http://134.119.181.113:6969/dJSIIJSDIJJidjsa88i281dsuj8jYUHjsHDUyh/index.php?server=Test+server (135)
+[0719/215346.824:INFO:CONSOLE(135)] "Error: blip cache is empty", source: http://134.119.181.113:6969/dJSIIJSDIJJidjsa88i281dsuj8jYUHjsHDUyh/index.php?server=Test+server (135)
+[0719/215351.593:INFO:CONSOLE(226)] "Google Maps JavaScript API warning: NoApiKeys https://developers.google.com/maps/documentation/javascript/error-messages#no-api-keys", source: https://maps.google.com/maps-api-v3/api/js/33/8/util.js (226)
+[0719/215442.827:INFO:CONSOLE(135)] "Sending ajax request to http://134.119.181.113:30120/live_map/blips.json", source: http://134.119.181.113:6969/dJSIIJSDIJJidjsa88i281dsuj8jYUHjsHDUyh/index.php?server=Test+server (135)
+[0719/215442.989:INFO:CONSOLE(135)] "Error: blip cache is empty", source: http://134.119.181.113:6969/dJSIIJSDIJJidjsa88i281dsuj8jYUHjsHDUyh/index.php?server=Test+server (135)
+[0719/215447.615:INFO:CONSOLE(135)] "hidding?", source: http://134.119.181.113:6969/dJSIIJSDIJJidjsa88i281dsuj8jYUHjsHDUyh/index.php?server=Test+server (135)
+[0719/215447.880:INFO:CONSOLE(226)] "Google Maps JavaScript API warning: NoApiKeys https://developers.google.com/maps/documentation/javascript/error-messages#no-api-keys", source: https://maps.google.com/maps-api-v3/api/js/33/8/util.js (226)
+[0719/215448.443:INFO:CONSOLE(135)] "hidding?", source: http://134.119.181.113:6969/dJSIIJSDIJJidjsa88i281dsuj8jYUHjsHDUyh/index.php?server=Test+server (135)

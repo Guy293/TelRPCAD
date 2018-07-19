@@ -91,3 +91,4 @@ D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\x64\Debug\TelRPCAD.csproj
 D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\x64\Debug\TelRPCAD.csproj.CoreCompileInputs.cache
 D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\x64\Debug\TelRPCAD.exe
 D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\x64\Debug\TelRPCAD.pdb
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\x64\Debug\TelRPCAD.CAD.resources

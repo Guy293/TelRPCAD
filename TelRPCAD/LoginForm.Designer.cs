@@ -62,6 +62,7 @@
             this.LogInBtn.Text = "התחבר";
             this.LogInBtn.UseVisualStyleBackColor = true;
             this.LogInBtn.UseWaitCursor = true;
+            this.LogInBtn.Click += new System.EventHandler(this.LogInBtn_Click);
             // 
             // LoginForm
             // 

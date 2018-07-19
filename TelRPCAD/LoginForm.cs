@@ -13,5 +13,12 @@ namespace TelRPCAD
         {
             MaximizeBox = false;
         }
+
+        CAD cad = new CAD();
+
+        private void LogInBtn_Click(object sender, System.EventArgs e)
+        {
+            cad.Show();
+        }
     }
 }
