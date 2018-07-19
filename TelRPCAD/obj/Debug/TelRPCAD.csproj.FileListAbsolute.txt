@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\bin\Debug\TelRPCAD.exe.config
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\bin\Debug\TelRPCAD.exe
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\bin\Debug\TelRPCAD.pdb
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\Debug\TelRPCAD.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\Debug\TelRPCAD.LoginForm.resources
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\Debug\TelRPCAD.Properties.Resources.resources
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\Debug\TelRPCAD.csproj.GenerateResource.cache
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\Debug\TelRPCAD.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\Debug\TelRPCAD.exe
+D:\VisualStudioProjects\TelRPCAD\TelRPCAD\TelRPCAD\obj\Debug\TelRPCAD.pdb
